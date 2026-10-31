@@ -5,3 +5,4 @@ pyarrow>=16,<24
 ipykernel>=6.29,<8
 jupyterlab>=4,<5
 certifi>=2024.7.4
+scikit-learn>=1.5,<2
